@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImBard
+- 👋 Hi, I’mTalison Brendon
 - 👀 I’m interested in developing apps 
 - 🌱 I’m currently learning javascript and react-native
 - 📫 How to reach me talison.bmc@gmail.com

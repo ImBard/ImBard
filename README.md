@@ -1,5 +1,5 @@
-- 👋 Hi, I’mTalison Brendon
-- 👀 I'm a Systems Development Technician 
+- 👋 Hi, I’m Talison Brendon
+- 👨‍💻 I'm a Systems Development Technician 
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me talison.bmc@gmail.com
 <div>

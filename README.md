@@ -1,6 +1,6 @@
 - 👋 Hi, I’mTalison Brendon
-- 👀 I’m interested in developing apps 
-- 🌱 I’m currently learning javascript and react-native
+- 👀 I'm a Systems Development Technician 
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me talison.bmc@gmail.com
 <div>
   <a href="https://github.com/ImBard">

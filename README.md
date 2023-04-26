@@ -2,6 +2,12 @@
 - 👨‍💻 I'm a Systems Development Technician 
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me talison.bmc@gmail.com
+
+
+## <p>CodeWars</p>
+<img src="https://www.codewars.com/users/ImBard/badges/large" />
+
+## <p>Status</p>
 <div>
   <a href="https://github.com/ImBard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBard&layout=compact&langs_count=7&theme=dracula"/>

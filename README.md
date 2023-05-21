@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Talison Brendon
 - 👨‍💻 I'm a Systems Development Technician 
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently studying systems analysis and development at college 3/6
+- 💙 I like game development and mathematics problems solving in computing
 - 📫 How to reach me talison.bmc@gmail.com
-
+### About me
+I'm from São Paulo in Brazil, I start programin with 14yo, I was learning game development with engine gameMaker.
+I took a course in Eletronics Technician and a learn about low level programing with assembly.
+In 2020 before covid-19 pandemic I started Systems Development Technician course, but i have to stop, later in 2021 i back with the course and i finish in 2022, and now I'm in the college.
+I have experience with web development using, python, JavaScript, NodeJs, PHP, HTML, CSS, React, React-native and agile methods, like kaban and scrum.  
+ + We can programming together!!!
 
 ## <p>CodeWars</p>
 <img src="https://www.codewars.com/users/ImBard/badges/large" />

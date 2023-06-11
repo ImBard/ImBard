@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Raluca, i'm from Angola
-- 👨‍💻 I'm a Systems Development Technician 
 - 🌱 I’m currently studying systems analysis and development at college 3/6
-- 💙 I like game development and mathematics problems solving in computing
 
 ### About me
 I'm from São Paulo, Brazil, and I started programming at the age of 14. My initial focus was on game development using the gameMaker engine. Later on, I pursued a course in Electronics Technician, which introduced me to low-level programming with assembly language.

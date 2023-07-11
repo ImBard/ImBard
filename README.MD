@@ -10,6 +10,7 @@ I have hands-on experience in web development using various technologies such as
 
 ## <p>CodeWars</p>
 <img src="https://www.codewars.com/users/ImBard/badges/large" />
+<img src="https://komarev.com/ghpvc/?username=ImBard&style=flat-square&color=red" alt="views"/>
 
 ## <p>Status</p>
 <div>

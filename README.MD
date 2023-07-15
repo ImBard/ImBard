@@ -1,3 +1,4 @@
+# FullStack Developer
 - 🌱 I’m currently studying systems analysis and development at college 3/6
 
 ### About me
@@ -19,7 +20,4 @@ I have hands-on experience in web development using various technologies such as
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImBard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <a href="https://github.com/ImBard">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImBard&theme=dracula" alt="ImBard" />
-  <img height="180em" src="https://cdn.picrew.me/shareImg/org/202212/188948_hdGE0L1n.png"/>
 </div>
- 
- 

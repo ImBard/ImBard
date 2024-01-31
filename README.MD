@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Talison Brendon
 - 👨‍💻 I'm a Systems Development Technician 
-- 🌱 I’m currently studying systems analysis and development at college 3/6
+- 🌱 I’m currently studying systems analysis and development at college 4/6
 - 💙 I like game development and mathematics problems solving in computing
 - 📫 How to reach me talison.bmc@gmail.com
 ### About me

@@ -1,4 +1,4 @@
 ### Talison Cardoso
-Mobile Engineer @linguado.
+Mobile Engineer at @linguado.
 
 

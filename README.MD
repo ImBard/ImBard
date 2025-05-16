@@ -1,7 +1,6 @@
-### Talison Cardoso
+### 👋 Hey there! I'm Talison Cardoso
 
 Creative engineer with a hacker's mind and a dreamer's soul. I build mobile apps, optimize routines, design circuits, and occasionally imagine sailing the world. Currently shaping the future — one line of code (and coffee) at a time.
-### 👋 Hey there! I'm Talison Cardoso
 
 I'm a mobile developer passionate about crafting smooth and functional digital experiences.  
 Currently working with **React Native**, **Expo**, **Firebase**, and other modern technologies — always aiming for clean architecture, great performance, and well-organized projects.

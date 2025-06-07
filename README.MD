@@ -46,4 +46,4 @@ Feel free to open an issue, drop a DM, or just say hey!
 
 Mobile Engineer at @linguado.
 
-![Talison's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Talison's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbard&show_icons=true&theme=radical)
